@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 Tetxhkjhk;
 
 nkjnkklml
 kjk
+=======
+
+Tetxhkjhk;
+
+
+
+
+>>>>>>> 299b08b26b31c01e5a767455898e665b58304f3c
